@@ -1,0 +1,12 @@
+C:\Users\Fan\Desktop\AutoExe\AutoExe\AutoExe\bin\Debug\AutoExe.exe.config
+C:\Users\Fan\Desktop\AutoExe\AutoExe\AutoExe\bin\Debug\AutoExe.exe
+C:\Users\Fan\Desktop\AutoExe\AutoExe\AutoExe\bin\Debug\AutoExe.pdb
+C:\Users\Fan\Desktop\AutoExe\AutoExe\AutoExe\obj\Debug\AutoExe.csprojResolveAssemblyReference.cache
+C:\Users\Fan\Desktop\AutoExe\AutoExe\AutoExe\obj\Debug\AutoExe.Properties.Resources.resources
+C:\Users\Fan\Desktop\AutoExe\AutoExe\AutoExe\obj\Debug\AutoExe.csproj.GenerateResource.Cache
+C:\Users\Fan\Desktop\AutoExe\AutoExe\AutoExe\obj\Debug\AutoExe.exe
+C:\Users\Fan\Desktop\AutoExe\AutoExe\AutoExe\obj\Debug\AutoExe.pdb
+C:\Users\Fan\Desktop\AutoExe\AutoExe\AutoExe\obj\Debug\AutoExe.Form1.resources
+C:\Users\Fan\Documents\Desktop Project\AutoExe\AutoExe\AutoExe\bin\Debug\AutoExe.exe.config
+C:\Users\Fan\Documents\Desktop Project\AutoExe\AutoExe\AutoExe\obj\Debug\AutoExe.exe
+C:\Users\Fan\Documents\Desktop Project\AutoExe\AutoExe\AutoExe\obj\Debug\AutoExe.pdb
