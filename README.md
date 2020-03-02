@@ -1,2 +1,2 @@
 # AutoRun
-Auto Run .exe  file
+Auto Run .exe  file test gg mirror 1
